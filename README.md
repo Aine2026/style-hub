@@ -11,9 +11,9 @@ A responsive online clothing shop where customers can discover and order stylish
 
 ## Screenshots
 
-![Homepage](./screenshots/homepage.png)
+![Homepage](./screenshots/homepage.png.png)
 
-![Mobile View](./screenshots/mobile.png)
+![Mobile View](./screenshots/mobile.png.png)
 
 ## Features
 
