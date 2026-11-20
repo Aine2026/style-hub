@@ -9,16 +9,12 @@ A responsive online clothing shop where customers can discover and order stylish
 
 [Visit Style Hub Website](https://style-hub-woad.vercel.app/)
 
-## Screenshot be added here.
 ## Screenshots
 
-### Homepage
+![Homepage](./screenshots/homepage.png)
 
-![Style Hub Homepage](./screenshots/homepage.png)
+![Mobile View](./screenshots/mobile.png)
 
-### Mobile View
-
-![Style Hub Mobile View](./screenshots/mobile.png)
 ## Features
 
 - Display clothes with images and prices.
@@ -26,7 +22,7 @@ A responsive online clothing shop where customers can discover and order stylish
 - Browse different clothing categories.
 - Add products to cart.
 - Order clothes through WhatsApp.
-- Contact the shop through email.
+- Contact the shop through email.## Screenshots
 - Responsive design for mobile and desktop.
 
 ## Tech Stack
