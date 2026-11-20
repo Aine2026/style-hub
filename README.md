@@ -1,19 +1,75 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Aline Fashion Store
 
-Currently, two official plugins are available:
+A responsive online clothing shop where customers can discover and order stylish clothes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Live Demo
 
-## React Compiler
+## Live Demo
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+[Visit Style Hub Website](https://style-hub-woad.vercel.app/)
 
-Note: This will impact Vite dev & build performances.
-You can also try [the experimental native React Compiler support in plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md#rust-react-compiler) by using `compiler: true` in the plugin options instead of using the Babel plugin.
+## Screenshots
 
-## Expanding the ESLint configuration
+Screenshots of my website will be added here.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- Display clothes with images and prices.
+- Search for clothes.
+- Browse different clothing categories.
+- Add products to cart.
+- Order clothes through WhatsApp.
+- Contact the shop through email.
+- Responsive design for mobile and desktop.
+
+## Tech Stack
+
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+- Git and GitHub
+- Vercel
+
+## Installation and Setup
+
+1. Clone this repository.
+2. Run npm install.
+3. Run npm run dev.
+4. Open the local URL in your browser.
+
+## Folder Structure
+
+- public/
+- src/
+- src/App.jsx
+- src/App.css
+- src/main.jsx
+- package.json
+- README.md
+
+## API Used
+
+No external API was used.
+
+## Challenges and Solutions
+
+- Challenge: Making the website responsive.
+  Solution: Used CSS media queries.
+
+- Challenge: WhatsApp ordering.
+  Solution: Used a WhatsApp ordering link.
+
+## Future Improvements
+
+- Add online payment.
+- Add customer login and registration.
+- Add product reviews.
+- Add an admin dashboard.
+
+## Credits
+
+- Images: Unsplash
+- Developed by: Aline Mutuyeyezu
